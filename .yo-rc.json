@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "io.github.atomfrede.jhipster.togglz.example",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "4.5.1",
+    "baseName": "togglzexample",
+    "packageName": "io.github.atomfrede.jhipster.togglz.example",
+    "packageFolder": "io/github/atomfrede/jhipster/togglz/example",
+    "serverPort": "8080",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSocialSignIn": false,
+    "rememberMeKey": "15319bb0159940ffac965633ef2c6099612e07bc",
+    "clientFramework": "angular2",
+    "useSass": false,
+    "clientPackageManager": "yarn",
+    "applicationType": "monolith",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ]
+  }
+}
